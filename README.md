@@ -1,5 +1,8 @@
 # TestRepositorio
-GitHub Practice
-Push / Pull 
+GitHub Practice (Repositorio creado en GitHub)
 
-Verificacion
+Push / Pull, con git bach (terminal)
+
+Commit (git commit) / Sync Changes (git push), con los botones de VScode
+
+Otro commit desde GitHub
