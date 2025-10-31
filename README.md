@@ -1,5 +1,5 @@
 # TestRepositorio
-GitHub Practice (Repositorio creado en GitHub)
+GitHub Practice (Repositorio creado en GitHub)(1 commit generado cuando se usa clone)
 
 Push / Pull, con git bach (terminal)
 
